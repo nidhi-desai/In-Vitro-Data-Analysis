@@ -1,4 +1,4 @@
-function [inVitroBurstData_2_12] = extractBurstInformation_inVitroData_2_12_2020()
+function [inVitroBurstData_2_12] = extractBurstInformation_inVitroData()
 % Extracting information about spikes from in-vitro data to characterize
 % bursts properties in lower and higher order of visual, auditory and 
 % somato-sensory regions of thalamus 
